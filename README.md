@@ -5,7 +5,7 @@ Landing page profissional desenvolvida para uma nutricionista fictícia, apresen
 
 ## Preview
 ![Preview do projeto](assets/img/preview.png)
--- ou -- [Ver projeto ao vivo](https://dudamilannnn.github.io/site-nutricionista-2026)
+-- ou -- [Ver projeto ao vivo](https://dudamilannnn.github.io/site-nutricionista-2026/)
 
 ## Tecnologias utilizadas
 - HTML5 (semântico e acessível)
