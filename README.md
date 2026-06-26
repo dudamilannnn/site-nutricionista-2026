@@ -30,10 +30,9 @@ Neste projeto pratiquei a construção de uma landing page completa com foco em 
 ## Como rodar localmente
 1. Clone o respositório
 ```bash
-git clone https://github.com/seuusuario/nome-do-projeto
+git clone https://github.com/dudamilannnn/site-nutricionista-2026
 ```
 2. Abra o arquivo index.html no navegador
 
 ## Autora
 Maria Eduarda Milan - Desenvolvedora Web
-[LinkedIn](link) - [Instagram](link) - [Portfólio](link)
